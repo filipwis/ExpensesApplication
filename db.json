@@ -1,0 +1,19 @@
+{
+  "expenses": [
+    {
+      "name": "Zakupy",
+      "value": "1234",
+      "id": 1
+    },
+    {
+      "name": "Kredyt",
+      "value": "1234",
+      "id": 2
+    },
+    {
+      "name": "Nowa pralka",
+      "value": "1234",
+      "id": 3
+    }
+  ]
+}
